@@ -157,7 +157,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     color: #232323 !important;
-    font-family: butler!important;
+
 }
 
 abbr[data-original-title], abbr[title] {
@@ -4077,7 +4077,7 @@ tbody.collapse.show {
 }
 
 .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
-    color: #FFF
+    color: #000
 }
 
 .navbar-dark .navbar-toggler {
@@ -6310,7 +6310,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 }
 
 .fixed-bottom, .fixed-top {
-    position: fixed;
+    position: relative;
     right: 0;
     z-index: 1030;
     left: 0
@@ -11767,7 +11767,7 @@ a.back-to-top i {
     height: 40px;
     line-height: 40px;
     color: #FFF;
-    background: #ed9d04;
+    background: #a2bb3b;
     border-radius: 2px;
     text-align: center;
     transition: all .2s ease-in-out;
@@ -11993,6 +11993,7 @@ a.back-to-top i {
 }
 
 .top-nav-collapse {
+    position: fixed;
     z-index: 999999;
     top: 0 !important;
     min-height: 58px;
@@ -12001,6 +12002,7 @@ a.back-to-top i {
     animation-duration: 1s;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
+
     -webkit-animation-name: fadeInDown;
     animation-name: fadeInDown;
     background: #f5f5f5 !important
@@ -12022,15 +12024,16 @@ a.back-to-top i {
 
 .top-nav-collapse .navbar-nav .nav-link:hover {
     cursor: pointer;
-    color: #ed9d04 !important
+    color: #a2bb3b !important
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
-    color: #ed9d04 !important
+    color: #a2bb3b !important
 }
 
 .indigo {
     background: transparent;
+
 }
 
 .dropdown-item.active, .dropdown-item:active, .menu-bg {
@@ -12051,7 +12054,7 @@ a.back-to-top i {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-    color: #fff;
+    color: #000;
     font-weight: 700;
     padding: 0 17px;
     margin-top: 15px;
@@ -12065,7 +12068,7 @@ a.back-to-top i {
 }
 
 .navbar-expand-lg .navbar-nav li .active > a, .navbar-expand-lg .navbar-nav li a:focus, .navbar-expand-lg .navbar-nav li a:hover {
-    color: #ed9d04;
+    color: #a2bb3b;
     outline: 0
 }
 
@@ -12074,7 +12077,7 @@ a.back-to-top i {
 }
 
 .navbar li.active a.nav-link {
-    color: #ed9d04
+    color: #a2bb3b
 }
 
 .dropdown-toggle::after {
@@ -12280,7 +12283,6 @@ a.back-to-top i {
 #hero-area {
     color: #FFF;
     overflow: hidden;
-    position: relative;
     display: flex;
     align-items: center;
 }
@@ -12458,7 +12460,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .services {
-    background:#ed9d04
+    background:#a2bb3b
 }
 
 .services-item {
@@ -12556,7 +12558,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .footer-right-contact .contact-icon {
-    background: #ed9d04;
+    background: #a2bb3b;
     color: #FFF;
     border-radius: 50%;
     font-size: 20px;
@@ -12616,8 +12618,8 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .footer-area .footer-text p a {
-    color: #ed9d04;
-    border-bottom: 1px dotted #ed9d04
+    color: #a2bb3b;
+    border-bottom: 1px dotted #a2bb3b
 }
 
 .footer-area .footer-text .nav-inline .nav-link {
@@ -13791,7 +13793,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .btn-alt:hover {
-    background: #ed9d04
+    background: #a2bb3b
 }
 
 @media (max-width: 768px) {
@@ -13948,7 +13950,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 #depoimento .profile-wrapper .d-nome {
     text-align: right;
     font-size: 18px;
-    color: #ed9d04 !important;
+    color: #a2bb3b !important;
     margin-bottom: 0;
 }
 
@@ -14066,7 +14068,7 @@ table caption {
 .footer-right-area .profile-wrapper .d-nome {
     text-align: right;
     font-size: 18px;
-    color: #ed9d04 !important;
+    color: #a2bb3b !important;
     margin-bottom: 0;
 }
 
@@ -14100,16 +14102,16 @@ table caption {
 }
 
 .controls .active, .slicknav_btn {
-    border-color: #ed9d04;
+    border-color: #a2bb3b;
 }
 
 
 .slicknav_menu .slicknav_icon-bar {
-    background: #ed9d04;
+    background: #a2bb3b;
 }
 
 .slicknav_nav .active, .slicknav_nav a:focus, .slicknav_nav a:hover {
-    color: #ed9d04;
+    color: #a2bb3b;
 }
 
 #planos {
