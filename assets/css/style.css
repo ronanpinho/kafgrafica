@@ -12213,6 +12213,13 @@ a.back-to-top i {
         height: 86vh;
     }
 
+    .hero-area-bg-saude {
+        background: url(../img/Imagem-topo-saúde-mobile.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 86vh;
+    }
+
     .hero-area-bg-delivery {
         width: 100%;
         display: flex;
@@ -12230,6 +12237,15 @@ a.back-to-top i {
         background-position: center;
         height: 100vh;
     }
+
+    .hero-area-bg-saude {
+        background: url(../img/Imagem-topo-saúde.jpg) no-repeat;
+        background-size: cover;
+        top: 0;
+        background-position: center;
+        height: 100vh;
+    }
+
 
     .hero-area-bg-delivery {
         width: 100%;
@@ -12714,7 +12730,8 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
     }
 
     #hero-area .contents .head-title {
-        font-size: 22px
+        font-size: 30px;
+        line-height: 32px;
     }
 
     #hero-area .contents h5 {
@@ -14172,4 +14189,21 @@ table caption {
     position: absolute;
     top: -5px;
     left: -4px;
+}
+@media (max-width: 767px) {
+    .tabela-desk {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) {
+    .tabela-mobile {
+        display: none;
+    }
+
+    .script-font {
+        max-width: 70%;
+        display: table;
+        margin: 0 auto;
+    }
 }
