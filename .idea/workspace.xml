@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/Alimentação-em-geral.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Bares.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Custo benefício.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Lanchonete.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Mockup Pacote Venda + 02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Mockup Pacote básico 01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Tabela Kaf diferencial.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/credibilidade.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/restaurantes.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/visual de impacto.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saude.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/kaf-grafica.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kaf-grafica.iml" afterDir="false" />
@@ -48,14 +37,22 @@
       <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/fonts/simple-line-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/simple-line-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Alimentação-em-geral.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Alimentação-em-geral.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Bares.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Bares.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Custo benefício.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Custo benefício.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/Depoimento.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Depoimento.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/Facebook-og.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Facebook-og.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Lanchonete.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Lanchonete.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Mockup Pacote Venda + 02.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Mockup Pacote Venda + 02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Mockup Pacote básico 01.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Mockup Pacote básico 01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Tabela Kaf diferencial.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Tabela Kaf diferencial.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/arrow.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/autoridade.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/autoridade.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/b01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b01.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/b02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b02.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/b03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b03.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/b04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b04.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/credibilidade.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/credibilidade.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/girl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/girl.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/icones/entrega.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/entrega.png" afterDir="false" />
@@ -80,9 +77,12 @@
       <change beforePath="$PROJECT_DIR$/assets/img/planos.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/planos.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/pregnant-woman.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/pregnant-woman.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/quote.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/quote.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/restaurantes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/restaurantes.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/simbol.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/simbol.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/soccer-player.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/soccer-player.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/standing-up-man-.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/standing-up-man-.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/stars.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/stars.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/visual de impacto.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/visual de impacto.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/classie.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/classie.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery-3.2.1.min.js" afterDir="false" />
@@ -102,7 +102,8 @@
       <change beforePath="$PROJECT_DIR$/assets/js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/video.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/waypoints.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/wow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bar-e-restaurante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bar-e-restaurante.html" beforeDir="false" afterPath="$PROJECT_DIR$/bar-e-restaurante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saude.html" beforeDir="false" afterPath="$PROJECT_DIR$/saude.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -116,11 +117,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="146">
-              <caret line="12532" column="24" lean-forward="true" selection-start-line="12532" selection-start-column="24" selection-end-line="12532" selection-end-column="24" />
+              <caret line="12532" selection-start-line="12530" selection-end-line="12532" />
             </state>
           </provider>
         </entry>
@@ -210,6 +211,15 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/img/Alimentação-em-geral.svg">
           <provider selected="true" editor-type-id="images" />
@@ -232,7 +242,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>overlay</find>
       <find>#beneficios</find>
       <find>#87B316</find>
       <find>#87b317</find>
@@ -262,6 +271,7 @@
       <find>counter-section</find>
       <find>.counter-section:before</find>
       <find>kafgraf</find>
+      <find>contact-icon</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -295,10 +305,10 @@
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/vida-melhor.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/bar-e-restaurante.html" />
         <option value="$PROJECT_DIR$/saude.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/CNAME" />
       </list>
     </option>
   </component>
@@ -455,12 +465,12 @@
       <workItem from="1551441017549" duration="31412000" />
       <workItem from="1551615031226" duration="1070000" />
       <workItem from="1552916538705" duration="3880000" />
-      <workItem from="1552993938575" duration="15189000" />
+      <workItem from="1552993938575" duration="15406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200754000" />
+    <option name="totallyTimeSpent" value="200971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -707,13 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/lgo-w.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -805,7 +808,14 @@
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
-          <caret line="12532" column="24" lean-forward="true" selection-start-line="12532" selection-start-column="24" selection-end-line="12532" selection-end-column="24" />
+          <caret line="12532" selection-start-line="12530" selection-end-line="12532" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
