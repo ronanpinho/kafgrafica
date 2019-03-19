@@ -11849,34 +11849,6 @@ a.back-to-top i {
     bottom: 10px
 }
 
-@media (max-width: 767px) {
-    .counter-section {
-        background-image: url(../img/mobile.jpg);
-        background-position: center;
-        background-size: cover;
-        overflow: hidden;
-        position: relative
-    }
-}
-
-@media (min-width: 768px) {
-    .counter-section {
-        background: url(../img/autoridade.jpg) bottom;
-        overflow: hidden;
-        position: relative;
-        background-size: cover
-    }
-}
-
-.counter-section:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, .4)
-}
 
 .dropdown-menu:before, .timeline li:before {
     content: ""
@@ -12311,7 +12283,7 @@ a.back-to-top i {
         letter-spacing: -5px;
         text-transform: uppercase;
         font-weight: 700;
-        line-height: 68px;
+        line-height: 82px;
     }
 }
 
@@ -12558,7 +12530,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .footer-right-contact .contact-icon {
-    background: #a2bb3b;
+    background: #BD2130;
     color: #FFF;
     border-radius: 50%;
     font-size: 20px;
@@ -13929,15 +13901,28 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
     min-height: 41px;
 }
 
-#recomendacao .services-content {
-
+#servicos .services-content h3 {
+    margin-top: 10px;
+    font-size: 18px;
+    line-height: 20px;
+    min-height: 41px;
 }
+
 
 #recomendacao .services-content p {
     min-height: 140px;
 }
 
+#servicos .services-content p {
+    min-height: 140px;
+}
+
 #recomendacao .icon img {
+    width: 60px;
+    height: 60px;
+}
+
+#servicos .icon img {
     width: 60px;
     height: 60px;
 }
@@ -14145,4 +14130,46 @@ table caption {
         margin: 0 auto;
     }
 
+}
+
+#depoimentos {
+    padding-right: 30px;
+    padding-left: 30px;
+    position: relative;
+}
+#depoimentos img {
+    width: 85px;
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+#depoimentos div {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#depoimentos h6 {
+    font-size: 1.5em;
+    text-align: center;
+
+}
+
+#depoimentos h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#depoimentos p {
+    text-align: justify;
+}
+
+#depoimentos p:before {
+    content: '';
+    background-image: url("../img/quote.png");
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    position: absolute;
+    top: -5px;
+    left: -4px;
 }
