@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/Clinicas.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Pilates.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Profissionais da saude geral.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/consultórios.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pacote-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pacote-02.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/kaf-grafica.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kaf-grafica.iml" afterDir="false" />
@@ -124,7 +130,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="369356">
               <caret line="14206" column="22" selection-start-line="14206" selection-start-column="22" selection-end-line="14206" selection-end-column="22" />
             </state>
           </provider>
@@ -133,8 +139,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/saude.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="22" column="96" lean-forward="true" selection-start-line="22" selection-start-column="96" selection-end-line="22" selection-end-column="96" />
+            <state relative-caret-position="157">
+              <caret line="236" column="54" selection-start-line="236" selection-start-column="54" selection-end-line="236" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -154,7 +160,6 @@
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -168,10 +173,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/Clinicas.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bar-e-restaurante.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="258" column="12" selection-start-line="258" selection-start-column="12" selection-end-line="259" selection-end-column="114" />
+            <state relative-caret-position="7722">
+              <caret line="297" column="20" selection-start-line="297" selection-start-column="20" selection-end-line="297" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -180,13 +190,12 @@
                 <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -194,7 +203,6 @@
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -214,11 +222,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/credibilidade.svg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -354,16 +357,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\laragon\www\pilates\assets\img" />
+      <recent name="F:\laragon\www\site-professora-nicinha\assets\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\laragon\www\kafgrafica\assets\img" />
       <recent name="F:\laragon\www\kafgrafica" />
       <recent name="F:\laragon\www\pilates\assets\img" />
       <recent name="F:\laragon\www\pilates\assets\video" />
       <recent name="F:\laragon\www\pilates\assets\fonts" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\laragon\www\pilates\assets\img" />
-      <recent name="F:\laragon\www\site-professora-nicinha\assets\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -456,12 +459,13 @@
       <workItem from="1551441017549" duration="31412000" />
       <workItem from="1551615031226" duration="1070000" />
       <workItem from="1552916538705" duration="3880000" />
-      <workItem from="1552993938575" duration="19352000" />
+      <workItem from="1552993938575" duration="20806000" />
+      <workItem from="1553094776624" duration="245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204917000" />
+    <option name="totallyTimeSpent" value="206616000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -511,13 +515,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="40" selection-end-line="2744" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-874">
@@ -711,10 +708,33 @@
     <entry file="file://$PROJECT_DIR$/assets/img/stars.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/lgo-m.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/Alimentação-em-geral.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/credibilidade.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369356">
+          <caret line="14206" column="22" selection-start-line="14206" selection-start-column="22" selection-end-line="14206" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bar-e-restaurante.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="258" column="12" selection-start-line="258" selection-start-column="12" selection-end-line="259" selection-end-column="114" />
+        <state relative-caret-position="7722">
+          <caret line="297" column="20" selection-start-line="297" selection-start-column="20" selection-end-line="297" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -723,13 +743,12 @@
             <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -737,7 +756,6 @@
             <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -758,33 +776,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14206" column="22" selection-start-line="14206" selection-start-column="22" selection-end-line="14206" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/lgo-m.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/Alimentação-em-geral.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/credibilidade.svg">
+    <entry file="file://$PROJECT_DIR$/assets/img/Clinicas.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/saude.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="22" column="96" lean-forward="true" selection-start-line="22" selection-start-column="96" selection-end-line="22" selection-end-column="96" />
+        <state relative-caret-position="157">
+          <caret line="236" column="54" selection-start-line="236" selection-start-column="54" selection-end-line="236" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -803,7 +801,6 @@
             <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
