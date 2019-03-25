@@ -14207,3 +14207,26 @@ table caption {
         margin: 0 auto;
     }
 }
+
+#servicos .services-item {
+    min-height: 670px;
+}
+
+#week-countdown {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: #DC3545;
+    padding: 1rem 0;
+    width: 100%;
+}
+
+#week-countdown p {
+    font-size: 4em;
+}
+
+@media  (max-width: 768px) {
+    #week-countdown p {
+        font-size: 3.5em;
+    }
+}
+

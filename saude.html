@@ -33,6 +33,60 @@
 
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136890489-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-136890489-1');
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136890489-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-136890489-1');
+    </script>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1001761636681672');
+        fbq('track', 'Saúde');
+    </script>
+    <SCRIPT language=JavaScript>
+        let sHors = "24";
+        let sMins = "00";
+        let sSecs = 0;
+        function getSecs(){
+            sSecs--;
+            if(sSecs<0) {sSecs=59;sMins--;if(sMins<=9)sMins="0"+sMins;}
+            if(sMins==="0-1")
+            {sMins=5;sHors--;if(sHors<=9)sHors="0"+sHors;}
+            if(sSecs<=9)sSecs="0"+sSecs;
+            if(sHors==="0-1")
+            {sHors="00";sMins="00";sSecs="00";
+                clock1.innerHTML=sHors+"<p style='color: black'>:</p>"+sMins+"<p style='color: black'>:</p>"+sSecs;}
+            else
+            {
+                clock1.innerHTML=sHors+"<p style='color: black'>:</p>"+sMins+"<p style='color: black'>:</p>"+sSecs;
+                setTimeout('getSecs()',1000);
+            }
+        }
+        //-->
+    </SCRIPT>
+
     <script type='application/ld+json'>{
         "@context": "https:\/\/schema.org",
         "@type": "Organization",
@@ -48,6 +102,14 @@
 
 </head>
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZ2VJB5"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1001761636681672&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 <header id="header-wrap">
     <nav class="navbar navbar-expand-lg fixed-top scrolling-navbar indigo">
         <div class="container">
@@ -220,12 +282,11 @@
             <div class="col-md-4 col-lg-4 col-xs-12" style="margin-bottom: 20px;">
                 <div class="services-item">
                     <h3 style="font-weight: 600;min-height: 0;margin-top: 25px;font-size: 25px;color: #B8000B!important;">Combo Básico</h3>
-                    <img src="assets/img/pacote-01.png" style="width: 100%; max-width: 70%">
+                    <img src="assets/img/Mockup_COMBO%2001_Saúde.png" style="width: 100%; max-width: 98%">
                     <div class="services-content">
-                        <h3 style="font-weight: 500;min-height: 0;margin-top: 13px;font-size: 21px;">500 cartões de visita</h3>
-                        <h3 style="font-weight: 500;min-height: 0;margin-top: 13px;font-size: 21px;">100 blocos receituários</h3>
-                        <h3 style="font-weight: 500;min-height: 0;margin-top: 13px;font-size: 21px;">100 folhetos</h3>
-                        <h3 style="font-weight: 600;min-height: 0;margin-top: 25px;font-size: 25px;color: #B8000B!important;">Por: R$ 00,00</h3>
+                        <h3 style="text-align:left;font-weight: 500;margin-top: 13px;font-size: 18px;">250 pastas c/ orelha 32x23cm - 4X0 - 550</h3>
+                        <h3 style="text-align:left;font-weight: 500;margin-top: 13px;font-size: 18px;">15 blocos de receituário c/ 100 folhas 15x21 A5 - 4X0 (FRENTE COLORIDA) - 300 páginas</h3>
+                        <h3 style="text-align:left;font-weight: 500;margin-top: 13px;font-size: 18px;">1000 papel timbrado A4 - colorido 350</h3>
                     </div>
                 </div>
             </div>
@@ -234,16 +295,20 @@
             <div class="col-md-4 col-lg-4 col-xs-12" style="margin-bottom: 20px;">
                 <div class="services-item">
                     <h3 style="font-weight: 600;min-height: 0;margin-top: 25px;font-size: 25px;color: #B8000B!important;">Combo + Pacientes</h3>
-                    <img src="assets/img/pacote-02.png" style="width: 100%; max-width: 70%">
+                    <img src="assets/img/Mockup_COMBO%2002_Saúde.png" style="width: 100%; max-width: 98%">
                     <div class="services-content">
-                        <h3 style="font-weight: 500;min-height: 0;margin-top: 13px;font-size: 21px;">1000 cartões de visita</h3>
-                        <h3 style="font-weight: 500;min-height: 0;margin-top: 13px;font-size: 21px;">200 blocos de receituários</h3>
-                        <h3 style="font-weight: 500;min-height: 0;margin-top: 13px;font-size: 21px;">200 porta prato</h3>
-                        <h3 style="font-weight: 600;min-height: 0;margin-top: 25px;font-size: 25px;color: #B8000B!important;">Por: R$ 00,00</h3>
+                        <h3 style="text-align:left;font-weight: 500;margin-top: 13px;font-size: 18px;">500 pastas 32x23cm c/ orelha - colorido 800</h3>
+                        <h3 style="text-align:left;font-weight: 500;margin-top: 13px;font-size: 18px;">30 blocos de receituários 15x21 A5 - colorido  375</h3>
+                        <h3 style="text-align:left;font-weight: 500;margin-top: 13px;font-size: 18px;">2000 papel timbrado A4 - colorido  420</h3>
                     </div>
                 </div>
             </div>
+
             <div class="col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 20px;"></div>
+            <p style="text-align: center; font-size: 27px;width: 100%">Termina em:</p>
+            <div id="week-countdown">
+                <p></p>
+            </div>
             <p style="text-align: center; font-size: 21px;width: 100%">Precisa de outros tipos ou quantidades? Fale com um consultor!</p>
             <a href="#contato" class="btn btn-danger btn-lg" style="text-align: center; display: table; margin: 0 auto;margin-top: 25px">FALE COM UM CONSULTOR</a>
         </div>
@@ -349,11 +414,21 @@
                         <p class="t-c" style="font-size: 14px">Obs: Normalmente temos uma demanda muito grande de clientes para atender devido nossas condições diferenciadas de atendimento e qualidade.
                         </p>
 
+                        <form method="post" action="https://briskforms.com/go/fad7b71acb4a874ef1556aa15034f93c">
+                            <div class="form-group">
+                                <input type="text" name="name" placeholder="Seu nome" required="" class="form-control">
+                                <input type="email" name="email" required="" class="form-control" placeholder="Seu email">
+                                <input type="tel" name="telefone" placeholder="Seu número de telefone" class="form-control">
+                                <input type="submit" value="Conquiste Mais Pacientes Agora" class="btn btn-danger btn-lg">
+                            </div>
+                        </form>
+                        <h3>OU</h3>
+
                         <a class="btn  btn-success btn-lg" style="margin-top: 10%"
-                           onclick="fbq('track', 'Whatsapp-page-bares-restaurantes');" id="whatsapp-page-bares-e-restaurantes"
-                           href="https://api.whatsapp.com/send?phone=+5591988020025&amp;text=Oi%20Roberta,%20tudo%20bem?%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20consultas"><img
+                           onclick="fbq('track', 'Whatsapp-page-saude');" id="whatsapp-page-saude"
+                           href="https://api.whatsapp.com/send?phone=+5598981045950&text=Ol%C3%A1,%20quero%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20pacotes%20para%20profissionais%20da%20sa%C3%BAde"><img
                                 style="width: 15px; height: 15px; margin-right: 5px"
-                                src="data:image/svg+xml;base64,&#10;                               PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDkwIDkwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA5MCA5MDsiIHhtbDpzcGFjZT0icHJlc2VydmUiIGNsYXNzPSIiPjxnPjxnPgoJPHBhdGggaWQ9IldoYXRzQXBwIiBkPSJNOTAsNDMuODQxYzAsMjQuMjEzLTE5Ljc3OSw0My44NDEtNDQuMTgyLDQzLjg0MWMtNy43NDcsMC0xNS4wMjUtMS45OC0yMS4zNTctNS40NTVMMCw5MGw3Ljk3NS0yMy41MjIgICBjLTQuMDIzLTYuNjA2LTYuMzQtMTQuMzU0LTYuMzQtMjIuNjM3QzEuNjM1LDE5LjYyOCwyMS40MTYsMCw0NS44MTgsMEM3MC4yMjMsMCw5MCwxOS42MjgsOTAsNDMuODQxeiBNNDUuODE4LDYuOTgyICAgYy0yMC40ODQsMC0zNy4xNDYsMTYuNTM1LTM3LjE0NiwzNi44NTljMCw4LjA2NSwyLjYyOSwxNS41MzQsNy4wNzYsMjEuNjFMMTEuMTA3LDc5LjE0bDE0LjI3NS00LjUzNyAgIGM1Ljg2NSwzLjg1MSwxMi44OTEsNi4wOTcsMjAuNDM3LDYuMDk3YzIwLjQ4MSwwLDM3LjE0Ni0xNi41MzMsMzcuMTQ2LTM2Ljg1N1M2Ni4zMDEsNi45ODIsNDUuODE4LDYuOTgyeiBNNjguMTI5LDUzLjkzOCAgIGMtMC4yNzMtMC40NDctMC45OTQtMC43MTctMi4wNzYtMS4yNTRjLTEuMDg0LTAuNTM3LTYuNDEtMy4xMzgtNy40LTMuNDk1Yy0wLjk5My0wLjM1OC0xLjcxNy0wLjUzOC0yLjQzOCwwLjUzNyAgIGMtMC43MjEsMS4wNzYtMi43OTcsMy40OTUtMy40Myw0LjIxMmMtMC42MzIsMC43MTktMS4yNjMsMC44MDktMi4zNDcsMC4yNzFjLTEuMDgyLTAuNTM3LTQuNTcxLTEuNjczLTguNzA4LTUuMzMzICAgYy0zLjIxOS0yLjg0OC01LjM5My02LjM2NC02LjAyNS03LjQ0MWMtMC42MzEtMS4wNzUtMC4wNjYtMS42NTYsMC40NzUtMi4xOTFjMC40ODgtMC40ODIsMS4wODQtMS4yNTUsMS42MjUtMS44ODIgICBjMC41NDMtMC42MjgsMC43MjMtMS4wNzUsMS4wODItMS43OTNjMC4zNjMtMC43MTcsMC4xODItMS4zNDQtMC4wOS0xLjg4M2MtMC4yNy0wLjUzNy0yLjQzOC01LjgyNS0zLjM0LTcuOTc3ICAgYy0wLjkwMi0yLjE1LTEuODAzLTEuNzkyLTIuNDM2LTEuNzkyYy0wLjYzMSwwLTEuMzU0LTAuMDktMi4wNzYtMC4wOWMtMC43MjIsMC0xLjg5NiwwLjI2OS0yLjg4OSwxLjM0NCAgIGMtMC45OTIsMS4wNzYtMy43ODksMy42NzYtMy43ODksOC45NjNjMCw1LjI4OCwzLjg3OSwxMC4zOTcsNC40MjIsMTEuMTEzYzAuNTQxLDAuNzE2LDcuNDksMTEuOTIsMTguNSwxNi4yMjMgICBDNTguMiw2NS43NzEsNTguMiw2NC4zMzYsNjAuMTg2LDY0LjE1NmMxLjk4NC0wLjE3OSw2LjQwNi0yLjU5OSw3LjMxMi01LjEwN0M2OC4zOTgsNTYuNTM3LDY4LjM5OCw1NC4zODYsNjguMTI5LDUzLjkzOHoiIGRhdGEtb3JpZ2luYWw9IiMwMDAwMDAiIGNsYXNzPSJhY3RpdmUtcGF0aCIgc3R5bGU9ImZpbGw6I0ZGRkZGRiIgZGF0YS1vbGRfY29sb3I9IiNmZmZmZmYiPjwvcGF0aD4KPC9nPjwvZz4gPC9zdmc+">Conquiste Mais Pacientes Agora</a>
+                                src="data:image/svg+xml;base64,&#10;                               PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDkwIDkwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA5MCA5MDsiIHhtbDpzcGFjZT0icHJlc2VydmUiIGNsYXNzPSIiPjxnPjxnPgoJPHBhdGggaWQ9IldoYXRzQXBwIiBkPSJNOTAsNDMuODQxYzAsMjQuMjEzLTE5Ljc3OSw0My44NDEtNDQuMTgyLDQzLjg0MWMtNy43NDcsMC0xNS4wMjUtMS45OC0yMS4zNTctNS40NTVMMCw5MGw3Ljk3NS0yMy41MjIgICBjLTQuMDIzLTYuNjA2LTYuMzQtMTQuMzU0LTYuMzQtMjIuNjM3QzEuNjM1LDE5LjYyOCwyMS40MTYsMCw0NS44MTgsMEM3MC4yMjMsMCw5MCwxOS42MjgsOTAsNDMuODQxeiBNNDUuODE4LDYuOTgyICAgYy0yMC40ODQsMC0zNy4xNDYsMTYuNTM1LTM3LjE0NiwzNi44NTljMCw4LjA2NSwyLjYyOSwxNS41MzQsNy4wNzYsMjEuNjFMMTEuMTA3LDc5LjE0bDE0LjI3NS00LjUzNyAgIGM1Ljg2NSwzLjg1MSwxMi44OTEsNi4wOTcsMjAuNDM3LDYuMDk3YzIwLjQ4MSwwLDM3LjE0Ni0xNi41MzMsMzcuMTQ2LTM2Ljg1N1M2Ni4zMDEsNi45ODIsNDUuODE4LDYuOTgyeiBNNjguMTI5LDUzLjkzOCAgIGMtMC4yNzMtMC40NDctMC45OTQtMC43MTctMi4wNzYtMS4yNTRjLTEuMDg0LTAuNTM3LTYuNDEtMy4xMzgtNy40LTMuNDk1Yy0wLjk5My0wLjM1OC0xLjcxNy0wLjUzOC0yLjQzOCwwLjUzNyAgIGMtMC43MjEsMS4wNzYtMi43OTcsMy40OTUtMy40Myw0LjIxMmMtMC42MzIsMC43MTktMS4yNjMsMC44MDktMi4zNDcsMC4yNzFjLTEuMDgyLTAuNTM3LTQuNTcxLTEuNjczLTguNzA4LTUuMzMzICAgYy0zLjIxOS0yLjg0OC01LjM5My02LjM2NC02LjAyNS03LjQ0MWMtMC42MzEtMS4wNzUtMC4wNjYtMS42NTYsMC40NzUtMi4xOTFjMC40ODgtMC40ODIsMS4wODQtMS4yNTUsMS42MjUtMS44ODIgICBjMC41NDMtMC42MjgsMC43MjMtMS4wNzUsMS4wODItMS43OTNjMC4zNjMtMC43MTcsMC4xODItMS4zNDQtMC4wOS0xLjg4M2MtMC4yNy0wLjUzNy0yLjQzOC01LjgyNS0zLjM0LTcuOTc3ICAgYy0wLjkwMi0yLjE1LTEuODAzLTEuNzkyLTIuNDM2LTEuNzkyYy0wLjYzMSwwLTEuMzU0LTAuMDktMi4wNzYtMC4wOWMtMC43MjIsMC0xLjg5NiwwLjI2OS0yLjg4OSwxLjM0NCAgIGMtMC45OTIsMS4wNzYtMy43ODksMy42NzYtMy43ODksOC45NjNjMCw1LjI4OCwzLjg3OSwxMC4zOTcsNC40MjIsMTEuMTEzYzAuNTQxLDAuNzE2LDcuNDksMTEuOTIsMTguNSwxNi4yMjMgICBDNTguMiw2NS43NzEsNTguMiw2NC4zMzYsNjAuMTg2LDY0LjE1NmMxLjk4NC0wLjE3OSw2LjQwNi0yLjU5OSw3LjMxMi01LjEwN0M2OC4zOTgsNTYuNTM3LDY4LjM5OCw1NC4zODYsNjguMTI5LDUzLjkzOHoiIGRhdGEtb3JpZ2luYWw9IiMwMDAwMDAiIGNsYXNzPSJhY3RpdmUtcGF0aCIgc3R5bGU9ImZpbGw6I0ZGRkZGRiIgZGF0YS1vbGRfY29sb3I9IiNmZmZmZmYiPjwvcGF0aD4KPC9nPjwvZz4gPC9zdmc+">Whatsapp</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 col-sm-12">
@@ -413,6 +488,8 @@
 <a href="#" class="back-to-top">
     <i class="icon-arrow-up"></i>
 </a>
+
 <script src="assets/js/scripts.js"></script>
+
 </body>
 </html>
