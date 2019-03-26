@@ -286,10 +286,15 @@
                 </div>
             </div>
             <div class="col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 20px;"></div>
-            <p style="text-align: center; font-size: 27px;width: 100%">Termina em:</p>
-            <div id="week-countdown">
-                <p></p>
+            <div class="contagem-fundo">
+            <div class="contagem">
+                <p style="text-align: center; font-size: 27px;width: 100%">A promoção termina em:</p>
+                <div id="week-countdown">
+                    <p></p>
+                </div>
             </div>
+            </div>
+            <br>
             <p style="text-align: center; font-size: 21px;width: 100%">Precisa de outros tipos ou quantidades? Fale com um consultor!</p>
             <a href="#contato" class="btn btn-danger btn-lg" style="text-align: center; display: table; margin: 0 auto;margin-top: 25px">FALE COM UM CONSULTOR</a>
         </div>
@@ -401,7 +406,7 @@
                             clientes para atender devido nossas condições diferenciadas de atendimento e qualidade.
                         </p>
 
-                        <form method="post" action="https://briskforms.com/go/fad7b71acb4a874ef1556aa15034f93c">
+                        <form method="post" action="https://www.briskforms.com/go/e304000efb24a050ae0e3cce2fba258f">
                             <div class="form-group">
                                 <input type="text" name="name" placeholder="Seu nome" required="" class="form-control">
                                 <input type="email" name="email" required="" class="form-control" placeholder="Seu email">
@@ -470,11 +475,26 @@
     </div>
 </footer>
 <!-- Footer Section End -->
-
+<!-- Modal -->
+<div id="overlay">
+    <button id="fecharpop" title="Fechar"><img src="assets/img/error.png"></button>
+    <div class="content-pop">
+    <img src="assets/img/facebook-saude.jpg">
+    </div>
+</div>
 <!-- Go to Top Link -->
 <a href="#" class="back-to-top">
     <i class="icon-arrow-up"></i>
 </a>
 <script src="assets/js/scripts.js"></script>
+<script>
+    document.onmouseleave = function() {
+        document.querySelector("#overlay").style.setProperty("display", "block", "important")
+    }
+
+    document.querySelector('#fecharpop').addEventListener('click', function (e) {
+        document.querySelector('#overlay').remove();
+    })
+</script>
 </body>
 </html>
