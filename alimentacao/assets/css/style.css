@@ -11966,7 +11966,7 @@ a.back-to-top i {
 
 .top-nav-collapse {
     position: fixed;
-    z-index: 999999;
+    z-index: 999;
     top: 0 !important;
     min-height: 58px;
     box-shadow: 0 3px 6px 3px rgba(0, 0, 0, .06);
@@ -14226,8 +14226,12 @@ table caption {
 
 @media  (max-width: 768px) {
     #week-countdown p {
-        font-size: 3.5em;
+        font-size: 3em;
     }
+}
+
+#servicos .services-content {
+    min-height: 185px;
 }
 
 .contagem {
