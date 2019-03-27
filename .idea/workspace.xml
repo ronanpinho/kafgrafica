@@ -2,346 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/alimentacao/assets/img/combo-01-res-arte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alimentacao/assets/img/combo-02-res-arte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alimentacao/assets/img/preco-combo-01-res.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alimentacao/assets/img/preco-combo-02-res.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kaf-grafica.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kaf-grafica.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/css/nivo-lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/css/nivo-lightbox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/css/slicknav.css" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/css/slicknav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/butler-bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/butler-bold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/line-icons/Simple-Line-Icons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/line-icons/Simple-Line-Icons.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/line-icons/Simple-Line-Icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/line-icons/Simple-Line-Icons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/line-icons/Simple-Line-Icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/line-icons/Simple-Line-Icons.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/line-icons/Simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/line-icons/Simple-Line-Icons.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/line-icons/Simple-Line-Icons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/line-icons/Simple-Line-Icons.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/fonts/simple-line-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/fonts/simple-line-icons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Alimentação-em-geral.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Alimentação-em-geral.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Bares.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Bares.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Clinicas.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Clinicas.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Custo benefício.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Custo benefício.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Depoimento.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Depoimento.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Facebook-og.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Facebook-og.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Imagem-topo-saúde-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Imagem-topo-saúde-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Imagem-topo-saúde.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Imagem-topo-saúde.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Lanchonete.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Lanchonete.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Mockup Pacote Venda + 02.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Mockup Pacote Venda + 02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Mockup Pacote básico 01.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Mockup Pacote básico 01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Mockup_COMBO 01_Saúde.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Mockup_COMBO 01_Saúde.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Mockup_COMBO 01_restaurante(1).png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Mockup_COMBO 01_restaurante(1).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Mockup_COMBO 02_Saúde.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Mockup_COMBO 02_Saúde.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Mockup_COMBO 02_restaurante(1).png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Mockup_COMBO 02_restaurante(1).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Pilates.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Pilates.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Profissionais da saude geral.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Profissionais da saude geral.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Tabela Kaf diferencial.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Tabela Kaf diferencial.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/Tabela-Kaf-diferencial-mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/Tabela-Kaf-diferencial-mobile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/arrow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/autoridade.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/autoridade.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/b01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/b01.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/b02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/b02.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/b03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/b03.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/b04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/b04.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/consultórios.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/consultórios.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/credibilidade.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/credibilidade.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/error.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/error.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/facebook-saude.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/facebook-saude.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/girl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/girl.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/icones/entrega.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/icones/entrega.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/icones/ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/icones/ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/icones/i01.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/icones/i01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/icones/i02.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/icones/i02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/icones/i03.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/icones/i03.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/icones/numero-um.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/icones/numero-um.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/icones/referencia-qualidade.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/icones/referencia-qualidade.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/imagem-inicio.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/imagem-inicio.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/imagem-topo-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/imagem-topo-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/imagem-topo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/imagem-topo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/kids-couple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/kids-couple.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/lgo-m.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/lgo-m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/lgo-w.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/lgo-w.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/m1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/m1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/m2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/m2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/m3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/m3.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/m4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/m4.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/old-man.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/old-man.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/pacote-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/pacote-01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/pacote-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/pacote-02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/planos.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/planos.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/pregnant-woman.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/pregnant-woman.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/quote.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/quote.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/restaurantes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/restaurantes.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/simbol.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/simbol.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/soccer-player.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/soccer-player.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/standing-up-man-.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/standing-up-man-.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/stars.png" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/stars.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/img/visual de impacto.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/img/visual de impacto.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/classie.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/classie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/jquery.countdown.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/jquery.countdown.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/jquery.counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/jquery.counterup.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/jquery.easing.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/jquery.mixitup.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/jquery.mixitup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/jquery.nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/jquery.nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/jquery.slicknav.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/jquery.slicknav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/modernizr.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/modernizr.custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/nivo-lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/nivo-lightbox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/nivo-lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/nivo-lightbox.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/scrolling-nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/scrolling-nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/video.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/waypoints.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/assets/js/wow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alimentacao/obrigado.html" beforeDir="false" afterPath="$PROJECT_DIR$/alimentacao/obrigado.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/about.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/nivo-lightbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/slicknav.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/butler-bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/simple-line-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Alimentação-em-geral.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Bares.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Clinicas.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Custo benefício.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Depoimento.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Facebook-og.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Imagem-topo-saúde-mobile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Imagem-topo-saúde.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Lanchonete.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Mockup Pacote Venda + 02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Mockup Pacote básico 01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Mockup_COMBO 01_Saúde.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Mockup_COMBO 01_restaurante(1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Mockup_COMBO 02_Saúde.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Mockup_COMBO 02_restaurante(1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Pilates.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Profissionais da saude geral.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Tabela Kaf diferencial.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Tabela-Kaf-diferencial-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/autoridade.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/b01.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/b02.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/b03.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/b04.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/consultórios.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/credibilidade.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/facebook-saude.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/girl.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/entrega.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/ex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/i01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/i02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/i03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/numero-um.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icones/referencia-qualidade.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/imagem-inicio.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/imagem-topo-mobile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/imagem-topo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/kids-couple.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/lgo-m.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/lgo-w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/m1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/m2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/m3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/m4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/mobile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/old-man.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/pacote-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/pacote-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/planos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/pregnant-woman.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/quote.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/restaurantes.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/simbol.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/soccer-player.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/standing-up-man-.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/stars.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/visual de impacto.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/classie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.countdown.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.counterup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.easing.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.mixitup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.slicknav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/modernizr.custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/nivo-lightbox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/nivo-lightbox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/scrolling-nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/video.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/waypoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/css/nivo-lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/css/nivo-lightbox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/css/slicknav.css" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/css/slicknav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/butler-bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/butler-bold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/line-icons/Simple-Line-Icons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/line-icons/Simple-Line-Icons.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/line-icons/Simple-Line-Icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/line-icons/Simple-Line-Icons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/line-icons/Simple-Line-Icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/line-icons/Simple-Line-Icons.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/line-icons/Simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/line-icons/Simple-Line-Icons.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/line-icons/Simple-Line-Icons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/line-icons/Simple-Line-Icons.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/fonts/simple-line-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/fonts/simple-line-icons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Alimentação-em-geral.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Alimentação-em-geral.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Bares.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Bares.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Clinicas.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Clinicas.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Custo benefício.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Custo benefício.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Depoimento.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Depoimento.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Facebook-og.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Facebook-og.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Imagem-topo-saúde-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Imagem-topo-saúde-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Imagem-topo-saúde.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Imagem-topo-saúde.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Lanchonete.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Lanchonete.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Mockup Pacote Venda + 02.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Mockup Pacote Venda + 02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Mockup Pacote básico 01.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Mockup Pacote básico 01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Mockup_COMBO 01_Saúde.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Mockup_COMBO 01_Saúde.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Mockup_COMBO 01_restaurante(1).png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Mockup_COMBO 01_restaurante(1).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Mockup_COMBO 02_Saúde.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Mockup_COMBO 02_Saúde.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Mockup_COMBO 02_restaurante(1).png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Mockup_COMBO 02_restaurante(1).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Pilates.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Pilates.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Profissionais da saude geral.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Profissionais da saude geral.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Tabela Kaf diferencial.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Tabela Kaf diferencial.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/Tabela-Kaf-diferencial-mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/Tabela-Kaf-diferencial-mobile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/arrow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/autoridade.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/autoridade.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/b01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/b01.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/b02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/b02.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/b03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/b03.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/b04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/b04.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/consultórios.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/consultórios.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/credibilidade.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/credibilidade.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/error.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/error.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/facebook-saude.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/facebook-saude.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/girl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/girl.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/icones/entrega.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/icones/entrega.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/icones/ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/icones/ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/icones/i01.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/icones/i01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/icones/i02.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/icones/i02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/icones/i03.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/icones/i03.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/icones/numero-um.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/icones/numero-um.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/icones/referencia-qualidade.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/icones/referencia-qualidade.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/imagem-inicio.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/imagem-inicio.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/imagem-topo-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/imagem-topo-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/imagem-topo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/imagem-topo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/kids-couple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/kids-couple.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/lgo-m.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/lgo-m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/lgo-w.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/lgo-w.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/m1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/m1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/m2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/m2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/m3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/m3.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/m4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/m4.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/old-man.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/old-man.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/pacote-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/pacote-01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/pacote-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/pacote-02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/planos.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/planos.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/pregnant-woman.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/pregnant-woman.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/quote.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/quote.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/restaurantes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/restaurantes.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/simbol.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/simbol.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/soccer-player.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/soccer-player.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/standing-up-man-.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/standing-up-man-.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/stars.png" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/stars.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/img/visual de impacto.svg" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/img/visual de impacto.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/classie.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/classie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/jquery.countdown.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/jquery.countdown.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/jquery.counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/jquery.counterup.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/jquery.easing.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/jquery.mixitup.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/jquery.mixitup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/jquery.nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/jquery.nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/jquery.slicknav.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/jquery.slicknav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/modernizr.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/modernizr.custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/nivo-lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/nivo-lightbox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/nivo-lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/nivo-lightbox.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/scrolling-nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/scrolling-nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/video.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/waypoints.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/saude/assets/js/wow.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/saude/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/saude/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saude/obrigado.html" beforeDir="false" afterPath="$PROJECT_DIR$/saude/obrigado.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -357,17 +19,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alimentacao/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="14228" column="23" lean-forward="true" selection-start-line="14228" selection-start-column="23" selection-end-line="14228" selection-end-column="23" />
+            <state relative-caret-position="369928">
+              <caret line="14228" column="23" selection-start-line="14228" selection-start-column="23" selection-end-line="14228" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/saude/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="298" column="66" selection-start-line="298" selection-start-column="66" selection-end-line="298" selection-end-column="66" />
+            <state relative-caret-position="261">
+              <caret line="508" column="12" lean-forward="true" selection-start-line="508" selection-start-column="12" selection-end-line="508" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#!!top" expanded="true" />
@@ -382,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/saude/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="14228" column="23" lean-forward="true" selection-start-line="14228" selection-start-column="23" selection-end-line="14228" selection-end-column="23" />
+            <state>
+              <caret line="14223" column="19" lean-forward="true" selection-start-line="14223" selection-start-column="19" selection-end-line="14223" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -403,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alimentacao/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="272" column="20" lean-forward="true" selection-start-line="272" selection-start-column="20" selection-end-line="272" selection-end-column="101" />
+            <state relative-caret-position="7072">
+              <caret line="272" column="20" selection-start-line="272" selection-start-column="20" selection-end-line="272" selection-end-column="101" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -500,9 +162,9 @@
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/alimentacao/index.html" />
-        <option value="$PROJECT_DIR$/saude/index.html" />
         <option value="$PROJECT_DIR$/alimentacao/assets/css/style.css" />
         <option value="$PROJECT_DIR$/saude/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/saude/index.html" />
       </list>
     </option>
   </component>
@@ -663,12 +325,13 @@
       <workItem from="1553116455795" duration="653000" />
       <workItem from="1553534462615" duration="11448000" />
       <workItem from="1553590169280" duration="6100000" />
-      <workItem from="1553626958745" duration="3686000" />
+      <workItem from="1553626958745" duration="4301000" />
+      <workItem from="1553701576747" duration="123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229238000" />
+    <option name="totallyTimeSpent" value="229976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -721,64 +384,13 @@
     <entry file="file://$PROJECT_DIR$/assets/img/gallery/img-1.jpg" />
     <entry file="file://$PROJECT_DIR$/obrigado-curso.html" />
     <entry file="file://$PROJECT_DIR$/curso.html" />
-    <entry file="file://$PROJECT_DIR$/assets/fonts/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="34" selection-end-line="3" selection-end-column="28900" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/fonts/simple-line-icons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="28" lean-forward="true" selection-end-line="781" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/jquery.nav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-end-line="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/jquery.slicknav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="7" column="27" selection-end-line="471" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/jquery.mixitup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/fonts/font-awesome.min.css" />
+    <entry file="file://$PROJECT_DIR$/assets/fonts/simple-line-icons.css" />
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.nav.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.slicknav.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.mixitup.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js" />
     <entry file="file://$PROJECT_DIR$/assets/css/icones.css" />
     <entry file="file://$PROJECT_DIR$/manifest.json" />
     <entry file="file://$PROJECT_DIR$/alunos-nota-1000.html" />
@@ -786,70 +398,26 @@
     <entry file="file://$PROJECT_DIR$/obrigado.html" />
     <entry file="file://$PROJECT_DIR$/assets/img/icones/entrega.svg" />
     <entry file="file://$PROJECT_DIR$/assets/img/icones/referencia-em-qualidade.svg" />
-    <entry file="file://$PROJECT_DIR$/assets/js/menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/menu.js" />
     <entry file="file://$PROJECT_DIR$/assets/img/Chef.jpg" />
-    <entry file="file://$PROJECT_DIR$/assets/img/icones/i03.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/b01.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/b02.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/b03.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/b04.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/m2.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/m4.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/icones/i03.png" />
+    <entry file="file://$PROJECT_DIR$/assets/img/b01.svg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/b02.svg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/b03.svg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/b04.svg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/m2.svg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/m4.svg" />
     <entry file="file://$PROJECT_DIR$/vida-melhor.html" />
-    <entry file="file://$PROJECT_DIR$/assets/img/autoridade.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/standing-up-man-.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/lgo-w.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/stars.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/lgo-m.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/Alimentação-em-geral.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/credibilidade.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/Clinicas.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/jquery.countdown.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5174">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/autoridade.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/standing-up-man-.svg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/lgo-w.png" />
+    <entry file="file://$PROJECT_DIR$/assets/img/stars.png" />
+    <entry file="file://$PROJECT_DIR$/assets/img/lgo-m.png" />
+    <entry file="file://$PROJECT_DIR$/assets/img/Alimentação-em-geral.svg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/credibilidade.svg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/Clinicas.svg" />
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.countdown.min.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js" />
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -884,6 +452,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/alimentacao/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369928">
+          <caret line="14228" column="23" selection-start-line="14228" selection-start-column="23" selection-end-line="14228" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/saude/obrigado.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5304">
@@ -893,8 +469,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alimentacao/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="272" column="20" lean-forward="true" selection-start-line="272" selection-start-column="20" selection-end-line="272" selection-end-column="101" />
+        <state relative-caret-position="7072">
+          <caret line="272" column="20" selection-start-line="272" selection-start-column="20" selection-end-line="272" selection-end-column="101" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -907,10 +483,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/saude/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14223" column="19" lean-forward="true" selection-start-line="14223" selection-start-column="19" selection-end-line="14223" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/saude/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="298" column="66" selection-start-line="298" selection-start-column="66" selection-end-line="298" selection-end-column="66" />
+        <state relative-caret-position="261">
+          <caret line="508" column="12" lean-forward="true" selection-start-line="508" selection-start-column="12" selection-end-line="508" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#!!top" expanded="true" />
@@ -921,27 +504,6 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="14173" column="17" selection-start-line="14170" selection-end-line="14231" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alimentacao/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14228" column="23" lean-forward="true" selection-start-line="14228" selection-start-column="23" selection-end-line="14228" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saude/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="14228" column="23" lean-forward="true" selection-start-line="14228" selection-start-column="23" selection-end-line="14228" selection-end-column="23" />
         </state>
       </provider>
     </entry>
